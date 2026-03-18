@@ -25,6 +25,10 @@ These files support:
 - alignment of the relaxed molecule
 - generation of starting configurations for adsorption studies on SWCNT
 
+## E2 molecule structure
+
+![E2 molecule](e2_structure.png)
+
 ## Application
 
 The prepared structures are intended for adsorption simulations that study E2 adsorption on SWCNT surfaces in the context of electrochemical sensing.
